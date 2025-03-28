@@ -1,3 +1,6 @@
+#Usecase PPT
+https://aztrgstr.blob.core.windows.net/boa/EmpInformation.pptx
+
 #Case study shared link
 https://aztrgstr.blob.core.windows.net/case-study/Web_App_Case_Study_Shared.pptx
 #Solution
