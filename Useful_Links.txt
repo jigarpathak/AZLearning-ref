@@ -1,0 +1,23 @@
+#Azure Charts for all learning, solution and ARM Template reference
+https://azurecharts.com/
+
+#Choose an Azure compute service
+https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
+
+#The Azure Well-Architected Framework is a set of quality-driven tenets, architectural decision points, and review tools intended to help solution architects build a technical foundation for their workloads.
+https://learn.microsoft.com/en-us/azure/well-architected/
+
+#Proven guidance and best practices that help you confidently adopt the cloud and achieve business outcomes.
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
+
+#Cloud adoptation framework to accelerate your cloud adoption
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates
+
+#Azure Migration guide
+https://learn.microsoft.com/en-us/azure/migrate/
+
+#For Java based App assement and migration guide
+https://learn.microsoft.com/en-us/azure/migrate/appcat/java?toc=%2Fazure%2Fdeveloper%2Fjava%2Fmigration%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fjava%2Fbreadcrumb%2Ftoc.json
+
+#Azure App service migration tools and resources
+https://learn.microsoft.com/en-us/azure/app-service/app-service-asp-net-migration#app-service-migration-tools-and-resources
