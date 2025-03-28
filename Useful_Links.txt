@@ -1,3 +1,8 @@
+#Hadoop Data migration
+https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-on-premises-migration-best-practices-data-migration
+https://learn.microsoft.com/en-us/azure/data-factory/data-migration-guidance-hdfs-azure-storage
+
+
 Microsoft AZ - 204 Course code redemption link (to be shared with participants):
 https://learn.microsoft.com/en-us/users/me/achievements?redeem=NX82Q4&WT.mc_id=ilt_partner_webpage_wwl&ocid=5350459
  
