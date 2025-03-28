@@ -1,3 +1,15 @@
+#Case study shared link
+https://aztrgstr.blob.core.windows.net/case-study/Web_App_Case_Study_Shared.pptx
+
+#Slides of AZ 204 concepts
+https://aztrgstr.blob.core.windows.net/boa/AZ_204_March24.pptx
+
+#Dotnet code
+https://aztrgstr.blob.core.windows.net/boa/Dot_Net.zip
+
+#Java Code
+https://aztrgstr.blob.core.windows.net/boa/Java.zip
+
 #Azure Charts for all learning, solution and ARM Template reference
 https://azurecharts.com/
 
